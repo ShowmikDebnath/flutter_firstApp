@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class homepage extends StatelessWidget {
+class Homepage extends StatelessWidget {
 
   final int days = 30;
   final String name = "Coders Hub";
